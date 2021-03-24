@@ -39,7 +39,7 @@
  
  ![S__3031142](https://user-images.githubusercontent.com/80879549/112360559-09945100-8d05-11eb-9b23-7b3a6ae71765.jpg)
 
- 5.พิมพ์ cd 04_Input-Port แล้ว enter เพื่อทำการรันตัวอย่างที่ 1 จากนั้น พิมพ์ vi src/main.cpp เพื่อใช้ในแสดงโค้ดโปรแกรม
+ 5.พิมพ์ cd 04_Input-Port แล้ว enter เพื่อทำการรันตัวอย่างที่ 4 จากนั้น พิมพ์ vi src/main.cpp เพื่อใช้ในแสดงโค้ดโปรแกรม
 ![S__3031159](https://user-images.githubusercontent.com/80879549/112389840-f5ae1680-8d27-11eb-9eee-95665f645cf8.jpg)
 
  6.พิมพ์ pio run -t upload เพื่ออัปโหลดโปรแกรมเข้าสู่ไมโทคอลโทรเลอร์ รอจนขึ้น succes
