@@ -31,15 +31,27 @@
 
 4.พิมพ์ cd 06_Wifi-AP-Web-Server แล้ว enter เพื่อทำการรันตัวอย่างที่ 6 จากนั้น พิมพ์ vi src/main.cpp เพื่อใช้ในแสดงโค้ดโปรแกรม
 
+![S__3031168](https://user-images.githubusercontent.com/80879549/112395611-555cef80-8d31-11eb-8e07-caf97967b309.jpg)
+
+
 5. กำหนด ssid หรือชื่อwifi และ password และสร้าง ip address gatway subnet 
 
 6.พิมพ์ pio run -t upload เพื่ออัปโหลดโปรแกรมเข้าสู่ไมโทคอลโทรเลอร์ รอจนขึ้น succes
 
+![S__3031170](https://user-images.githubusercontent.com/80879549/112395615-5a21a380-8d31-11eb-8e12-d69ab430ee8d.jpg)
+
+
 7.รีเซตไมโครคอนโทรเลอร์
 
-8.พิมพ์ pio device monitor เพื่อใช้ในการรันเพื่อดูผลจากการทดลอง 
+8.พิมพ์ pio device monitor เพื่อใช้ในการรันเพื่อดูผลจากการทดลอง
+
+![S__3031172](https://user-images.githubusercontent.com/80879549/112395628-60b01b00-8d31-11eb-9180-6c76277b313c.jpg)
+
 
 9.หา wifi ที่สร้างขึ้น
+
+![S__3031173](https://user-images.githubusercontent.com/80879549/112395648-660d6580-8d31-11eb-9b39-d460782bdae7.jpg)
+
 
 ## การบันทึกผลการทดลอง
 ผลการทดลองเมื่อพิมพ์ pio device monitorทำให้เกิด ver started และตรวจสอบผลลัพธ์จากการสร้างwifi ด้วยอุปกรณ์ที่สามารถเชื่อมต่อ wifi ได้เช่นโทรศัพท์ โน้ตบุ๊ค จะทำให้เราเห็น wifi ที่เราสร้างเองขึ้น
