@@ -43,7 +43,7 @@
  
  ![S__3031142](https://user-images.githubusercontent.com/80879549/112360559-09945100-8d05-11eb-9b23-7b3a6ae71765.jpg)
 
- 5.พิมพ์ cd 03_output-port แล้ว enter เพื่อทำการรันตัวอย่างที่ 1 จากนั้น พิมพ์ vi src/main.cpp เพื่อใช้ในแสดงโค้ดโปรแกรม
+ 5.พิมพ์ cd 03_output-port แล้ว enter เพื่อทำการรันตัวอย่างที่ 3 จากนั้น พิมพ์ vi src/main.cpp เพื่อใช้ในแสดงโค้ดโปรแกรม
 
 ![S__3031153](https://user-images.githubusercontent.com/80879549/112382649-b202df00-8d1e-11eb-96af-1adb9b6132e2.jpg)
 
