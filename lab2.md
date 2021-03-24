@@ -39,14 +39,13 @@
 
 6.รีเซตไมโครคอนโทรเลอร์
 
-![278342](https://user-images.githubusercontent.com/80879549/112369301-9c85b900-8d0e-11eb-8514-b3d4b7bb98b9.jpg)
 
 7.พิมพ์ pio device monitor เพื่อใช้ในการรันเพื่อดูผลจากการทดลอง
 
-
+![278342](https://user-images.githubusercontent.com/80879549/112369301-9c85b900-8d0e-11eb-8514-b3d4b7bb98b9.jpg)
 ## การบันทึกผลการทดลอง
 ผลการทดลองเมื่อพิมพ์ pio device monitorทำให้เกิดการรัน ซึ่งส่งผลให้เห็นสัญญาญ wifi ที่แสกนโดยแต่ละ wifi ค้นเจอจะมีความแรงที่แตกต่างกัน ซึ่งเมื่อเรากด รีเซตจะส่งผลให้เกิดการรันเพื่อหาwifiใหม่อีกรอบ
-![278343](https://user-images.githubusercontent.com/80879549/112369341-a90a1180-8d0e-11eb-9f46-f50b465d6f21.jpg)
+![278345](https://user-images.githubusercontent.com/80879549/112369710-1453e380-8d0f-11eb-8b9d-a1082d96a4e8.jpg)
 
 
 ## อภิปรายผลการทดลอง
