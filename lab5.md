@@ -30,7 +30,7 @@
 
 ![S__3031142](https://user-images.githubusercontent.com/80879549/112360559-09945100-8d05-11eb-9b23-7b3a6ae71765.jpg)
 
-4.พิมพ์ cd 05_Wifi-Web-Server แล้ว enter เพื่อทำการรันตัวอย่างที่ 1 จากนั้น พิมพ์ vi src/main.cpp เพื่อใช้ในแสดงโค้ดโปรแกรม
+4.พิมพ์ cd 05_Wifi-Web-Server แล้ว enter เพื่อทำการรันตัวอย่างที่ 5 จากนั้น พิมพ์ vi src/main.cpp เพื่อใช้ในแสดงโค้ดโปรแกรม
 ![S__3031167](https://user-images.githubusercontent.com/80879549/112391176-1a0af280-8d2a-11eb-933c-ef069a9e35b2.jpg)
 
 5.เชื่อมต่อwifi กับโปรแกรม
