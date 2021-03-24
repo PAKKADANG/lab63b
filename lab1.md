@@ -17,7 +17,7 @@
  
  3.ความรู้การติดตั้ง iotset1 : https://youtu.be/9aF0upI9Gic
  
- 4.ความรู้เกี่ยวกับการนำไปใช้ไมโครคอนโทรเลอร์ : https://youtu.be/8ErQEAMUAlQ
+ 4.ความรู้เกี่ยวกับdigital : https://youtu.be/8ErQEAMUAlQ
 ## วิธีการทำการทดลอง
 1.ทำการเสียบไมโครคอนโทรเลอร์ลงอุปกรณ์ serial  
 
