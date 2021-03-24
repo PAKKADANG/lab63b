@@ -38,7 +38,8 @@
 
 
 6.พิมพ์ pio run -t upload เพื่ออัปโหลดโปรแกรมเข้าสู่ไมโทคอลโทรเลอร์ รอจนขึ้น succes
-![S__3031145](https://user-images.githubusercontent.com/80879549/112360695-29c41000-8d05-11eb-97c8-a39201199ecf.jpg)
+![S__3031147](https://user-images.githubusercontent.com/80879549/112360972-790a4080-8d05-11eb-8698-b0afb10c26a1.jpg)
+
 
 7.รีเซตไมโครคอนโทรเลอร์
 
