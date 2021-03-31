@@ -43,8 +43,6 @@
 
  4.รันโปรแกรมจากโฟลเดอร์ pattani ด้วยการพิมพ์ cd pattani
  
- ![S__3031142](https://user-images.githubusercontent.com/80879549/112360559-09945100-8d05-11eb-9b23-7b3a6ae71765.jpg)
- 
  5.พิมพ์ cd 07_Scan-wifi and output-port แล้ว enter เพื่อทำการรันตัวอย่างที่ 7 จากนั้น พิมพ์ vi src/main.cpp เพื่อใช้ในแสดงโค้ดโปรแกรม
 ![S__3113069](https://user-images.githubusercontent.com/80879549/113174056-35b75100-9274-11eb-972d-088de70e92cd.jpg)
 ![S__3113068](https://user-images.githubusercontent.com/80879549/113174070-3819ab00-9274-11eb-984c-5713ea4790e9.jpg)
