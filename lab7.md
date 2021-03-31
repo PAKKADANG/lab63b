@@ -45,9 +45,7 @@
  
  5.พิมพ์ cd 07_Scan-wifi and output-port แล้ว enter เพื่อทำการรันตัวอย่างที่ 7 จากนั้น พิมพ์ vi src/main.cpp เพื่อใช้ในแสดงโค้ดโปรแกรม
 ![S__3113069](https://user-images.githubusercontent.com/80879549/113174056-35b75100-9274-11eb-972d-088de70e92cd.jpg)
-![S__3113068](https://user-images.githubusercontent.com/80879549/113174070-3819ab00-9274-11eb-984c-5713ea4790e9.jpg)
-
-
+![S__3113071](https://user-images.githubusercontent.com/80879549/113176667-efafbc80-9276-11eb-95e2-4284c4fe4cac.jpg)
 
 6.พิมพ์ pio run -t upload เพื่ออัปโหลดโปรแกรมเข้าสู่ไมโทคอลโทรเลอร์ รอจนขึ้น succes
 ![278341](https://user-images.githubusercontent.com/80879549/112369281-98599b80-8d0e-11eb-96f7-a5962bb4326e.jpg)
