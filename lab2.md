@@ -12,8 +12,11 @@
  3.อุปกรณ์ซีเรียลserial ใช้ต่อไมโครคอนโทรเลอร์
 ## ศึกษาข้อมูลเบื้องต้น
 1.ความรู้เบื้องต้น platformio : https://platformio.org/
+
 2.ตัวอย่างการรันโปรแกรม : https://www.youtube.com/watch?v=yBjab0UNuB8
+
 3.ความรู้การติดตั้ง iotset1 : https://youtu.be/9aF0upI9Gic
+
 4.ความรู้เกี่ยวกับvoltage : https://youtu.be/ZsGuyLhPhbM
 
 ## วิธีการทำการทดลอง
